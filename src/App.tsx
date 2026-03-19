@@ -1,7 +1,7 @@
 const contactLinks = [
   {
     name: "WhatsApp",
-    href: "https://wa.me/5500000000000",
+    href: "https://wa.me/+5547996482391",
     label: "Atendimento rápido e direto",
     accent: "from-white via-zinc-100 to-zinc-200",
     icon: (
@@ -21,7 +21,7 @@ const contactLinks = [
   },
   {
     name: "Instagram",
-    href: "https://instagram.com/seuinstagram",
+    href: "https://www.instagram.com/pedromatheus.dev/",
     label: "Fotos, vídeos e atualizações",
     accent: "from-zinc-100 via-white to-zinc-200",
     icon: (
@@ -33,23 +33,8 @@ const contactLinks = [
     ),
   },
   {
-    name: "TikTok",
-    href: "https://www.tiktok.com/@seuusuario",
-    label: "Vídeos e conteúdos recentes",
-    accent: "from-zinc-200 via-white to-zinc-100",
-    icon: (
-      <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="1.8">
-        <path
-          d="M14 4c.35 1.86 1.94 3.55 4 4.1v2.6c-1.36-.04-2.72-.42-4-1.13V14.5a4.5 4.5 0 1 1-4.5-4.5c.33 0 .66.04.97.11v2.67a2.2 2.2 0 1 0 1.33 2.02V4H14Z"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-        />
-      </svg>
-    ),
-  },
-  {
     name: "Email",
-    href: "mailto:contato@suamarca.com",
+    href: "mailto:pedromatheus.developer@gmail.com",
     label: "Orçamentos, dúvidas e propostas",
     accent: "from-white via-zinc-50 to-zinc-200",
     icon: (
