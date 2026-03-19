@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+dist/
+
+# Arquivos de build
+.vercel
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
